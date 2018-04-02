@@ -26,7 +26,7 @@ cd public \
 && git add --all \
 && git commit -m "Publishing to gh-pages (publish.sh) $(date)"
 
-if [[ $? != 0 ]]; then
+if [[ $? ]]; then
     echo "Publishing to Github"
     git push
 else
