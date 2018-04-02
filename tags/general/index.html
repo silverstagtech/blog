@@ -10,7 +10,7 @@
   
 
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en-us">
   <head>
     
     <meta charset="UTF-8">
@@ -72,7 +72,7 @@
 
   <body>
     <div id="blog">
-      <header id="header" data-behavior="1">
+      <header id="header" data-behavior="2">
   <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
   <div class="header-title">
     <a class="header-title-link" href="http://blog.silverstagtech.com/">Silver Stag Tech Blog</a>
@@ -80,16 +80,16 @@
   
 </header>
 
-      <nav id="sidebar" data-behavior="1">
+      <nav id="sidebar" data-behavior="2">
   <div class="sidebar-container">
     
       <div class="sidebar-profile">
         <a href="http://blog.silverstagtech.com/#about">
-          <img class="sidebar-profile-picture" src="http://blog.silverstagtech.com/images/randycoburn.jpg" alt="" />
+          <img class="sidebar-profile-picture" src="http://blog.silverstagtech.com/images/randycoburn.jpg" alt="Author&#39;s picture" />
         </a>
         <h4 class="sidebar-profile-name">Randy Coburn</h4>
         
-          <h5 class="sidebar-profile-bio">Silver Stag Tech is my company. I am a DevOps Evangilist that wants to bring great tech to as many people as we can. Don&rsquo;t get lost in the woods.</h5>
+          <h5 class="sidebar-profile-bio">Silver Stag Tech is my company. I am a DevOps Evangilist that wants to bring great tech to as many people as I can. Don&rsquo;t get lost in the woods.</h5>
         
       </div>
     
@@ -122,6 +122,16 @@
       <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       
       <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://blog.silverstagtech.com/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
     </a>
   </li>
 
@@ -172,7 +182,7 @@
         
 
       
-      <div id="main" data-behavior="1"
+      <div id="main" data-behavior="2"
         class="
                hasCoverMetaIn
                ">
@@ -193,7 +203,7 @@
     
     <div class="postShorten-header">
       <h1 class="postShorten-title" itemprop="headline">
-        <a class="link-unstyled" href="http://blog.silverstagtech.com/post/welcome/">
+        <a class="link-unstyled" href="http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/">
           Welcome To Silver Stag Tech&#39;s blog
         </a>
       </h1>
@@ -206,7 +216,7 @@
   
   
   
-    2  2018
+    2 April 2018
   
 
       </time>
@@ -214,7 +224,7 @@
     
   
   
-    <span></span>
+    <span>in</span>
     
       <a class="category-link" href="http://blog.silverstagtech.com/categories/general">general</a>, 
     
@@ -226,17 +236,16 @@
 
     </div>
     <div class="postShorten-excerpt" itemprop="articleBody">
-      This is the first post that states what the blog is and why I want to work on it.
-Welcome to Silver Stag&rsquo;s Tech blog Why    For too long the tutorials, talks and demos have been based on hello world and nothing more. You are left thinking how do I actually make use of this in real life.
-In this blog I want to share with you more meaningful talks, tutorials, demos and my general ramblings.
+      <p>This is the first post that states what the blog is and why I want to work on it.
+</p>
       <p>
-        <a href="http://blog.silverstagtech.com/post/welcome/" class="postShorten-excerpt_link link"></a>
+        <a href="http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/" class="postShorten-excerpt_link link">Continue reading</a>
         
       </p>
     </div>
   </div>
   
-    <a href="http://blog.silverstagtech.com/post/welcome/">
+    <a href="http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/">
       <div class="postShorten-thumbnailimg">
         <img alt="" itemprop="image" src="http://blog.silverstagtech.com/images/gopher_party.png"/>
       </div>
@@ -251,7 +260,7 @@ In this blog I want to share with you more meaningful talks, tutorials, demos an
         
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
-    &copy; 2018 Randy Coburn. 
+    &copy; 2018 Silver Stag Tech. All Rights Reserved
   </span>
 </footer>
 
@@ -264,11 +273,11 @@ In this blog I want to share with you more meaningful talks, tutorials, demos an
       <i class="fa fa-remove"></i>
     </div>
     
-      <img id="about-card-picture" src="http://blog.silverstagtech.com/images/randycoburn.jpg" alt="" />
+      <img id="about-card-picture" src="http://blog.silverstagtech.com/images/randycoburn.jpg" alt="Author&#39;s picture" />
     
     <h4 id="about-card-name">Randy Coburn</h4>
     
-      <div id="about-card-bio">Silver Stag Tech is my company. I am a DevOps Evangilist that wants to bring great tech to as many people as we can. Don&rsquo;t get lost in the woods.</div>
+      <div id="about-card-bio">Silver Stag Tech is my company. I am a DevOps Evangilist that wants to bring great tech to as many people as I can. Don&rsquo;t get lost in the woods.</div>
     
     
       <div id="about-card-job">
@@ -298,18 +307,18 @@ In this blog I want to share with you more meaningful talks, tutorials, demos an
       <i class="search-icon fa fa-search"></i>
       <form id="algolia-search-form">
         <input type="text" id="algolia-search-input" name="search"
-          class="form-control input--large search-input" placeholder="" />
+          class="form-control input--large search-input" placeholder="Search" />
       </form>
     </div>
     <div class="modal-body">
-      <div class="no-result text-color-light text-center"></div>
+      <div class="no-result text-color-light text-center">no post found</div>
       <div class="results">
         
         
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="http://blog.silverstagtech.com/post/welcome/">
+              <a class="link-unstyled" href="http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/">
                 <h3 class="media-heading">Welcome To Silver Stag Tech&#39;s blog</h3>
               </a>
               <span class="media-meta">
@@ -317,9 +326,8 @@ In this blog I want to share with you more meaningful talks, tutorials, demos an
                   Apr 4, 2018
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather">This is the first post that states what the blog is and why I want to work on it.
-Welcome to Silver Stag&rsquo;s Tech blog Why    For too long the tutorials, talks and demos have been based on hello world and nothing more. You are left thinking how do I actually make use of this in real life.
-In this blog I want to share with you more meaningful talks, tutorials, demos and my general ramblings.</div>
+              <div class="media-content hide-xs font-merryweather"><p>This is the first post that states what the blog is and why I want to work on it.
+</p></div>
             </div>
             <div style="clear:both;"></div>
             <hr>
@@ -329,9 +337,9 @@ In this blog I want to share with you more meaningful talks, tutorials, demos an
     </div>
     <div class="modal-footer">
       <p class="results-count text-medium"
-         data-message-zero=""
-         data-message-one=""
-         data-message-other="">
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
          1 posts found
       </p>
     </div>

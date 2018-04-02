@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.silverstagtech.com/post/welcome/</loc>
+    <loc>http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/</loc>
     <lastmod>2018-04-02T11:16:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.silverstagtech.com/archives/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,13 +18,13 @@
   </url>
   
   <url>
-    <loc>http://blog.silverstagtech.com/categories/general/</loc>
+    <loc>http://blog.silverstagtech.com/tags/general/</loc>
     <lastmod>2018-04-02T11:16:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.silverstagtech.com/tags/general/</loc>
+    <loc>http://blog.silverstagtech.com/categories/general/</loc>
     <lastmod>2018-04-02T11:16:51+01:00</lastmod>
     <priority>0</priority>
   </url>

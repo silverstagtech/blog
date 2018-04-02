@@ -10,7 +10,7 @@
   
 
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en-us">
   <head>
     
     <meta charset="UTF-8">
@@ -72,7 +72,7 @@
 
   <body>
     <div id="blog">
-      <header id="header" data-behavior="1">
+      <header id="header" data-behavior="2">
   <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
   <div class="header-title">
     <a class="header-title-link" href="http://blog.silverstagtech.com/">Silver Stag Tech Blog</a>
@@ -80,16 +80,16 @@
   
 </header>
 
-      <nav id="sidebar" data-behavior="1">
+      <nav id="sidebar" data-behavior="2">
   <div class="sidebar-container">
     
       <div class="sidebar-profile">
         <a href="http://blog.silverstagtech.com/#about">
-          <img class="sidebar-profile-picture" src="http://blog.silverstagtech.com/images/randycoburn.jpg" alt="" />
+          <img class="sidebar-profile-picture" src="http://blog.silverstagtech.com/images/randycoburn.jpg" alt="Author&#39;s picture" />
         </a>
         <h4 class="sidebar-profile-name">Randy Coburn</h4>
         
-          <h5 class="sidebar-profile-bio">Silver Stag Tech is my company. I am a DevOps Evangilist that wants to bring great tech to as many people as we can. Don&rsquo;t get lost in the woods.</h5>
+          <h5 class="sidebar-profile-bio">Silver Stag Tech is my company. I am a DevOps Evangilist that wants to bring great tech to as many people as I can. Don&rsquo;t get lost in the woods.</h5>
         
       </div>
     
@@ -122,6 +122,16 @@
       <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       
       <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://blog.silverstagtech.com/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
     </a>
   </li>
 
@@ -170,19 +180,19 @@
 
       
 
-      <div id="main" data-behavior="1"
+      <div id="main" data-behavior="2"
         class="
                hasCoverMetaIn
                ">
 
         <div id="tags-archives" class="main-content-wrap">
           <form id="filter-form" action="#">
-            <input name="tag" type="text" class="form-control input--xlarge" placeholder="" autofocus="autofocus">
+            <input name="tag" type="text" class="form-control input--xlarge" placeholder="Search tag" autofocus="autofocus">
           </form>
           <h4 class="archive-result text-color-base text-xlarge"
-              data-message-zero=""
-              data-message-one=""
-              data-message-other=""></h4>
+              data-message-zero="no tag found"
+              data-message-one="1 tag found"
+              data-message-other="{n} tags found"></h4>
 
             <section>
               
@@ -202,7 +212,7 @@
                   <ul class="archive-posts">
                     
                       <li class="archive-post">
-                        <a class="archive-post-title" href="http://blog.silverstagtech.com/post/welcome/">
+                        <a class="archive-post-title" href="http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/">
                           Welcome To Silver Stag Tech&#39;s blog
                         </a>
                         <span class="archive-post-date"> - 
@@ -210,7 +220,7 @@
   
   
   
-    2  2018
+    2 April 2018
   
 </span>
                       </li>
@@ -222,7 +232,7 @@
          </div>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
-    &copy; 2018 Randy Coburn. 
+    &copy; 2018 Silver Stag Tech. All Rights Reserved
   </span>
 </footer>
 
@@ -234,11 +244,11 @@
       <i class="fa fa-remove"></i>
     </div>
     
-      <img id="about-card-picture" src="http://blog.silverstagtech.com/images/randycoburn.jpg" alt="" />
+      <img id="about-card-picture" src="http://blog.silverstagtech.com/images/randycoburn.jpg" alt="Author&#39;s picture" />
     
     <h4 id="about-card-name">Randy Coburn</h4>
     
-      <div id="about-card-bio">Silver Stag Tech is my company. I am a DevOps Evangilist that wants to bring great tech to as many people as we can. Don&rsquo;t get lost in the woods.</div>
+      <div id="about-card-bio">Silver Stag Tech is my company. I am a DevOps Evangilist that wants to bring great tech to as many people as I can. Don&rsquo;t get lost in the woods.</div>
     
     
       <div id="about-card-job">
