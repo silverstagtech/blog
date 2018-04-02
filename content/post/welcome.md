@@ -12,6 +12,9 @@ thumbnailImage: /images/gopher_party.png
 ---
 
 This is the first post that states what the blog is and why I want to work on it.
+<!--more-->
+
+<!--toc-->
 
 # Welcome to Silver Stag's Tech blog
 
@@ -23,13 +26,15 @@ For too long the tutorials, talks and demos have been based on hello world and n
 
 In this blog I want to share with you more meaningful talks, tutorials, demos and my general ramblings.
 
-It will start simple as it is now (at the time of writing) and grow as I learn more. And thats what I want to share with you. As we grow we forget that we didn't once know.
+It will start simple as it is now (at the time of writing) and grow as I learn more. And thats what I want to share with you.
+
+As we grow we forget that we didn't once know.
 
 ## How
 
 {{< image classes="fancybox center clear" src="https://cdn-images-1.medium.com/max/1600/1*CO20-3P183ZAqrsJlF7n_A.png" >}}
 
-I will be writting some stuff. I will be recording and sharing some stuff. I'll be going to meetup and hopefully if they allow it talking at these meetups.
+I will be writing some stuff. I will be recording and sharing some stuff. I'll be going to meetups and hopefully if they allow it talking at these meetups.
 
 Expect to see posts later about how this will work as I figure it out.
 
