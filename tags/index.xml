@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Silver Stag Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Mon, 02 Apr 2018 11:16:51 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.silverstagtech.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>General</title>
+      <link>http://blog.silverstagtech.com/tags/general/</link>
+      <pubDate>Mon, 02 Apr 2018 11:16:51 +0100</pubDate>
+      
+      <guid>http://blog.silverstagtech.com/tags/general/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
