@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Welcome To Silver Stag Tech's blog"
 date: 2018-04-02T11:16:51+01:00
 categories:
