@@ -6,10 +6,19 @@
     <description>Recent content on Silver Stag Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Apr 2018 11:16:51 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 17:39:06 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.silverstagtech.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Is Hard</title>
+      <link>http://blog.silverstagtech.com/2018/04/learning-is-hard/</link>
+      <pubDate>Tue, 10 Apr 2018 17:39:06 +0100</pubDate>
+      
+      <guid>http://blog.silverstagtech.com/2018/04/learning-is-hard/</guid>
+      <description>&lt;p&gt;Learning new stuff is hard. Here is a quick post about how I approach working on something that I have never touched before.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Welcome To Silver Stag Tech&#39;s blog</title>

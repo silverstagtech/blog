@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Silver Stag Tech Blog</title>
-    <link>http://blog.silverstagtech.com/post/</link>
-    <description>Recent content in Posts on Silver Stag Tech Blog</description>
+    <title>Learning on Silver Stag Tech Blog</title>
+    <link>http://blog.silverstagtech.com/categories/learning/</link>
+    <description>Recent content in Learning on Silver Stag Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Apr 2018 17:39:06 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.silverstagtech.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.silverstagtech.com/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>http://blog.silverstagtech.com/2018/04/learning-is-hard/</guid>
       <description>&lt;p&gt;Learning new stuff is hard. Here is a quick post about how I approach working on something that I have never touched before.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome To Silver Stag Tech&#39;s blog</title>
-      <link>http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/</link>
-      <pubDate>Mon, 02 Apr 2018 11:16:51 +0100</pubDate>
-      
-      <guid>http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/</guid>
-      <description>&lt;p&gt;This is the first post that states what the blog is and why I want to work on it.
-&lt;/p&gt;</description>
     </item>
     
   </channel>
