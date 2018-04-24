@@ -255,7 +255,13 @@ Here is an example:
 >
 > Scientists have been trying to correct this misconception for years but because the anchor is set, confirmation bias kicks in and anything they tell you that is different now needs to compete against your anchor.
 
-Why do we just trust this information when we can now clearly see it as wrong? Because there was nothing to fight. The information won the decision by default. Now anything that contradicts the information needs to prove its worth before it can be replaced. How you replace that anchor is a different story and will most likely have an anchor to help it along.
+Think about this for a few seconds:
+
+> Q: Why did we just trust this information when we can now clearly see it as wrong?
+>
+> A: Because there was nothing in place to fight with.
+
+The information won the decision by default. Now anything that contradicts the information needs to prove its worth before it can be replaced. How you replace that anchor is a different story and will most likely have an anchor to help it along.
 
 In summary:
 
@@ -264,7 +270,7 @@ That in turn will influence other peoples choices rightly or wrongly.
 
 # Forget everything and become the child again
 
-As we said with the children of domestic abuse; helping them can sometimes be as simple as having them forget the lessons that they are taught from their parents. We help remove the anchors that they have put in place that filter the worlds information into something they they are terrified of.
+As we said with the children of domestic abuse; helping them, can be as simple as having them forget the lessons that they were taught from their parents. We help remove the anchors that they have put in place that filter the worlds information down to something they they are terrified of.
 
 Hopefully you are not one of these people and if you are, consider if you are living life by the anchors of your parents.
 
@@ -279,7 +285,7 @@ We have decided:
 
 {{< hl-text red >}}But are you wrong?{{< /hl-text >}}
 
-Are you living with false anchors. Are these __inaccurate__ anchors ruling your life and make the decisions before you even get a chance to see them?
+Are you living with false anchors. Are these __inaccurate__ anchors ruling your life and making the decisions before you even get a chance to see them?
 
 Consider these 2 boards above 2 petrol station on the same intersection:
 
