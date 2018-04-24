@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heuristics on Silver Stag Tech Blog</title>
+    <link>http://blog.silverstagtech.com/categories/heuristics/</link>
+    <description>Recent content in Heuristics on Silver Stag Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Apr 2018 20:08:26 +0100</lastBuildDate>
+    
+	<atom:link href="http://blog.silverstagtech.com/categories/heuristics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anchoring in Life</title>
+      <link>http://blog.silverstagtech.com/2018/04/anchoring-in-life/</link>
+      <pubDate>Tue, 24 Apr 2018 20:08:26 +0100</pubDate>
+      
+      <guid>http://blog.silverstagtech.com/2018/04/anchoring-in-life/</guid>
+      <description>&lt;p&gt;Anchoring can lead you to do some crazy things. Its a good idea to know what it is. It has more effect than you give it credit for. In this post we talk about what it is and how it can effect us in long term thinking.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

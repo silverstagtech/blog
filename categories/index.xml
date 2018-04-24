@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Silver Stag Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 24 Apr 2018 20:08:26 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.silverstagtech.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anchoring</title>
+      <link>http://blog.silverstagtech.com/categories/anchoring/</link>
+      <pubDate>Tue, 24 Apr 2018 20:08:26 +0100</pubDate>
+      
+      <guid>http://blog.silverstagtech.com/categories/anchoring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>General</title>
@@ -16,6 +26,15 @@
       <pubDate>Mon, 02 Apr 2018 11:16:51 +0100</pubDate>
       
       <guid>http://blog.silverstagtech.com/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics</title>
+      <link>http://blog.silverstagtech.com/categories/heuristics/</link>
+      <pubDate>Tue, 24 Apr 2018 20:08:26 +0100</pubDate>
+      
+      <guid>http://blog.silverstagtech.com/categories/heuristics/</guid>
       <description></description>
     </item>
     
