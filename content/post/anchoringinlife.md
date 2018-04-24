@@ -243,9 +243,9 @@ As children we listen to our parents and don't question their judgements.
 
 We watch them and learn by them doing. We then use that information to make our decision later in life.
 
-As you get older though you learn to trust others and learn from their information. We then anchor our decisions on the information we learnt from them. But are they right? did they research every decision they made. Are you sure you want to trust them to always supply you with the right information to make your decisions?
+As you get older though you learn to trust others and learn from their information. We then anchor our decisions on the information we learnt from them. But are they right? Did they research every decision they made. Are you sure you want to trust them to always supply you with the right information to make your decisions?
 
-Anchors don't just come from other people though. Consider that as one point you trusted the news papers to always print truthful unbiased and accurate information. You would then argue with others based on the information that you gleaned from the new paper.
+Anchors don't just come from other people though. Consider that at one point we trusted the news papers to always print truthful unbiased and accurate information. You could then argue with others based on the information that you gleaned from the new paper.
 
 Here is an example:
 
