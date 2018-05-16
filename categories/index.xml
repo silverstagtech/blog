@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Silver Stag Tech Blog</title>
-    <link>http://blog.silverstagtech.com/categories/</link>
+    <link>https://blog.silverstagtech.com/categories/</link>
     <description>Recent content in Categories on Silver Stag Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Apr 2018 20:08:26 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.silverstagtech.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.silverstagtech.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Anchoring</title>
-      <link>http://blog.silverstagtech.com/categories/anchoring/</link>
+      <link>https://blog.silverstagtech.com/categories/anchoring/</link>
       <pubDate>Tue, 24 Apr 2018 20:08:26 +0100</pubDate>
       
-      <guid>http://blog.silverstagtech.com/categories/anchoring/</guid>
+      <guid>https://blog.silverstagtech.com/categories/anchoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General</title>
-      <link>http://blog.silverstagtech.com/categories/general/</link>
+      <link>https://blog.silverstagtech.com/categories/general/</link>
       <pubDate>Mon, 02 Apr 2018 11:16:51 +0100</pubDate>
       
-      <guid>http://blog.silverstagtech.com/categories/general/</guid>
+      <guid>https://blog.silverstagtech.com/categories/general/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heuristics</title>
-      <link>http://blog.silverstagtech.com/categories/heuristics/</link>
+      <link>https://blog.silverstagtech.com/categories/heuristics/</link>
       <pubDate>Tue, 24 Apr 2018 20:08:26 +0100</pubDate>
       
-      <guid>http://blog.silverstagtech.com/categories/heuristics/</guid>
+      <guid>https://blog.silverstagtech.com/categories/heuristics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning</title>
-      <link>http://blog.silverstagtech.com/categories/learning/</link>
+      <link>https://blog.silverstagtech.com/categories/learning/</link>
       <pubDate>Tue, 10 Apr 2018 17:39:06 +0100</pubDate>
       
-      <guid>http://blog.silverstagtech.com/categories/learning/</guid>
+      <guid>https://blog.silverstagtech.com/categories/learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>http://blog.silverstagtech.com/categories/welcome/</link>
+      <link>https://blog.silverstagtech.com/categories/welcome/</link>
       <pubDate>Mon, 02 Apr 2018 11:16:51 +0100</pubDate>
       
-      <guid>http://blog.silverstagtech.com/categories/welcome/</guid>
+      <guid>https://blog.silverstagtech.com/categories/welcome/</guid>
       <description></description>
     </item>
     

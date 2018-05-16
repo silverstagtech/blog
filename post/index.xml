@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Silver Stag Tech Blog</title>
-    <link>http://blog.silverstagtech.com/post/</link>
+    <link>https://blog.silverstagtech.com/post/</link>
     <description>Recent content in Posts on Silver Stag Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Apr 2018 20:08:26 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.silverstagtech.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.silverstagtech.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Anchoring in Life</title>
-      <link>http://blog.silverstagtech.com/2018/04/anchoring-in-life/</link>
+      <link>https://blog.silverstagtech.com/2018/04/anchoring-in-life/</link>
       <pubDate>Tue, 24 Apr 2018 20:08:26 +0100</pubDate>
       
-      <guid>http://blog.silverstagtech.com/2018/04/anchoring-in-life/</guid>
+      <guid>https://blog.silverstagtech.com/2018/04/anchoring-in-life/</guid>
       <description>&lt;p&gt;Anchoring can lead you to do some crazy things. Its a good idea to know what it is. It has more effect than you give it credit for. In this post we talk about what it is and how it can effect us in long term thinking.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learning Is Hard</title>
-      <link>http://blog.silverstagtech.com/2018/04/learning-is-hard/</link>
+      <link>https://blog.silverstagtech.com/2018/04/learning-is-hard/</link>
       <pubDate>Tue, 10 Apr 2018 17:39:06 +0100</pubDate>
       
-      <guid>http://blog.silverstagtech.com/2018/04/learning-is-hard/</guid>
+      <guid>https://blog.silverstagtech.com/2018/04/learning-is-hard/</guid>
       <description>&lt;p&gt;Learning new stuff is hard. Here is a quick post about how I approach working on something that I have never touched before.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Welcome To Silver Stag Tech&#39;s blog</title>
-      <link>http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/</link>
+      <link>https://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/</link>
       <pubDate>Mon, 02 Apr 2018 11:16:51 +0100</pubDate>
       
-      <guid>http://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/</guid>
+      <guid>https://blog.silverstagtech.com/2018/04/welcome-to-silver-stag-techs-blog/</guid>
       <description>&lt;p&gt;This is the first post that states what the blog is and why I want to work on it.
 &lt;/p&gt;</description>
     </item>
