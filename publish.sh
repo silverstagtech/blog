@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Deleting old publication"
+rm -rf public
 
 if [[ $(git status -s) ]]
 then
@@ -6,8 +8,7 @@ then
     exit 1;
 fi
 
-echo "Deleting old publication"
-rm -rf public
+echo "Starting Publish process"
 mkdir public
 git worktree prune
 rm -rf .git/worktrees/public/
